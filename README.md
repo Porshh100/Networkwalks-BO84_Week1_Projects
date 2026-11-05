@@ -1,6 +1,6 @@
 # Networkwalks-BO84_Week1_Projects
 
-This project documents my hands-on experience completing six network traffic analysis and investigation labs during my cybersecurity learning journey.
+</p>This project documents my hands-on experience completing six network traffic analysis and investigation labs during my cybersecurity learning journey.</p>
 
 The labs focused on analysing network traffic using Wireshark, identifying suspicious activity, investigating communication between devices, detecting credential exposure, recognising brute-force attacks, and examining VoIP communication.
 
@@ -9,7 +9,7 @@ The objective was to develop practical skills in network analysis, threat identi
 
 
 
-
+![](Lab-1_Result.png)
 
 
 Lab 1: Identify the Attacker's IP Address
@@ -33,7 +33,7 @@ Analysing source and destination addresses.
 Understanding network reconnaissance techniques.
 
 
-
+![](Lab-2_Result.png)
 Lab 2: Follow TCP Stream – Part 1
 Objective: Investigate TCP communication and reconstruct conversations between devices.
 
@@ -51,6 +51,8 @@ ACTIVITIES
 - Understanding ephemeral ports and service ports.
 - Reconstructing application-level conversations using Follow TCP Stream.
 
+
+![](Lab-3_Result.png)
   Lab 3: Follow TCP Stream – Part 2
 Objective: Investigate web traffic and inspect HTTP communication to identify information exchanged between a client and a web server.
 
@@ -68,7 +70,9 @@ ACTIVITIES
 - Inspecting web traffic and page content.
 - Identifying potentially exposed information in network traffic.
 
-  Lab 4: HTTP Plain-Text Credentials
+
+![](Lab-4_Result.png)
+   Lab 4: HTTP Plain-Text Credentials
 Objective: Investigate how credentials can be exposed when authentication takes place over unencrypted HTTP.
 
 ACTIVITIES
@@ -86,7 +90,9 @@ ACTIVITIES
 - Understanding the importance of HTTPS and TLS encryption.
 - Learning how organisations can protect credentials in transit.
 
-  Lab 5: Catch the Brute-Force Attacker
+
+![](Lab-5_Result.png)
+   Lab 5: Catch the Brute-Force Attacker
 Objective: Identify suspicious FTP authentication activity and investigate repeated failed login attempts.
 
 ACTIVITES
@@ -105,6 +111,8 @@ ACTIVITES
 - Identifying suspicious source IP addresses.
 - Understanding FTP response codes and failed logins.
 
+
+![](Lab-6_Result.png)
   Lab 6: Catch the Call Scammer – VoIP Investigation
 Objective: Investigate Voice over IP (VoIP) communication by analysing call signalling, voice packets, and call information.
 
